@@ -13,6 +13,7 @@
 ## Operating System
 
 - Linux (Ubuntu 20.04+ Recommended)
+- Windows (Commandline User)
 - MacOS
 
 ## Prerequisite
